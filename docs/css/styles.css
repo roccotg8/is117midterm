@@ -1,0 +1,7 @@
+body {
+    font-family: Helvetica, "Helvetica Neue", SansSerif;
+}
+
+.clearFix{
+    clear: both;
+}
