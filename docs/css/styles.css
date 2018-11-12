@@ -2,6 +2,64 @@ body {
     font-family: Helvetica, "Helvetica Neue", SansSerif;
 }
 
+#wrapper {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#top{
+    height: 135px;
+    line-height: 135px;
+}
+
+#logo{
+    height: 135px;
+}
+
+#footer{
+    height: 100px;
+    line-height: 100px;
+    background-color: black;
+    color: white;
+}
+
+.goldenSmall{
+    width: 329px;
+}
+
+.goldenBig{
+    width: 600px;
+}
+
+.wrapperPaddingRight{
+    padding-right: 31px;
+}
+
+.displayInline{
+    display: inline;
+}
+
+.textRight{
+    text-align: right;
+}
+
+.floatLeft{
+    float: left;
+}
+
 .clearFix{
     clear: both;
+}
+
+.alignCenter{
+    text-align: center;
+}
+
+.clearMargin{
+    margin: 0px;
+}
+
+.clearPadding{
+    padding: 0px;
 }
