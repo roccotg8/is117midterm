@@ -47,6 +47,10 @@ body {
     top: 138px;
 }
 
+#table{
+    margin-bottom: 120px;
+}
+
 .blackBackground{
     background-color: black;
 }
