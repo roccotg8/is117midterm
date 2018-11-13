@@ -24,6 +24,10 @@ body {
     color: white;
 }
 
+#sideBox{
+    padding: 18px;
+}
+
 .goldenSmall{
     width: 329px;
 }
@@ -44,6 +48,10 @@ body {
     text-align: right;
 }
 
+.texCenter{
+    text-align: center;
+}
+
 .floatLeft{
     float: left;
 }
@@ -62,4 +70,22 @@ body {
 
 .clearPadding{
     padding: 0px;
+}
+
+.thinBorder{
+    border: 1px black solid;
+}
+
+.contentMargin{
+    margin-left: 31px;
+    margin-right: 31px;
+}
+
+.contentText{
+    margin-left: 31px;
+}
+
+.marginCenter{
+    margin-right: auto;
+    margin-left: auto;
 }
