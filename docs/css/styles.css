@@ -20,12 +20,43 @@ body {
 #footer{
     height: 100px;
     line-height: 100px;
-    background-color: black;
-    color: white;
 }
 
 #sideBox{
     padding: 18px;
+}
+
+#mainImage{
+    background-image: url("../images/4x4-adventure-automobile-1571783.jpg");
+    background-size: cover;
+    height: 554px;
+}
+
+#divider{
+    height: 554px;
+    width: 480px;
+    opacity: 0.8;
+}
+
+#dividerText{
+    position: relative;
+}
+
+#dividerText h1, h3{
+    position: relative;
+    top: 138px;
+}
+
+.blackBackground{
+    background-color: black;
+}
+
+.blueText{
+    color: blue;
+}
+
+.whiteText{
+    color: white;
 }
 
 .goldenSmall{
